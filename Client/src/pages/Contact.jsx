@@ -8,11 +8,12 @@ const Contact = () => {
         <Navbar/>
         <div className='flex'>
         <SideNav/>
-        <div className='mx-auto ps-50'>
-            <div>
-                <h1 className='text-center text-5xl border p-3'>
+        <div className=' ps-50'>
+            <div className='mx-auto'>
+                <h1 className='text-center text-5xl border p-3 mt-20'>
                     Contact
                 </h1>
+                vgbnhjmhnjmkcfgvhnj
                 <div>
                     
                 </div>
