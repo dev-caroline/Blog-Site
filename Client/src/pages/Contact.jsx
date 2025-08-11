@@ -21,7 +21,7 @@ const Contact = () => {
                 </div>
                 <h1 className='text-4xl border p-3 mt-20 lg:ms-120 text-center'>OR</h1>
                 <div className=' mt-19 '>
-                    <p>Enter your Message here:</p> <br />
+                    <p>Drop your Message here:</p> <br />
                     <textarea name="" id="" className='w-200 border-3'></textarea> <br />
                     <button className='p-1 border-2 border-orange-500 font-bold bg-amber-200'> Send <i class="fa-solid fa-paper-plane"></i> </button>
                 </div>

@@ -11,7 +11,7 @@ const Glow_up_tips = () => {
                 <SideNav />
                 <div className='ms-80'>
                     <Catnav />
-                    <div className='p-10 w-190 shadow-xl shadow-purple-300 mt-16  mx-80'>
+                    <div className='p-10 w-250 shadow-xl shadow-purple-300 mt-16  mx-60'>
 
                         <div className=' border-2 p-3 bg-emerald-200 rounded-2xl'>
                             Hi guys, it's me Caroe, I really don't know what to write here ust trying

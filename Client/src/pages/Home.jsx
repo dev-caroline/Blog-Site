@@ -9,6 +9,10 @@ const Home = () => {
         <div className='flex'>
         <SideNav/>
         <div className='mx-auto text-center ps-50'>
+          <div className='flex'>
+          <img src="/herosection.jpg" alt="" className='w-220 h-200' />
+          <img src="/hero2.jpg" alt="" className='w-220 h-200'/>
+          </div>
             edrftgyhujikol;edrtfgyuhjkash8uijkweashduijknm
             edrftgyhujikol;edrtfgyuhjkash8uijkweashduijknm
             edrftgyhujikol;edrtfgyuhjkash8uijkweashduijknm
