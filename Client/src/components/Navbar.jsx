@@ -5,7 +5,7 @@ import { Link, useNavigate } from 'react-router-dom'
 
 const Navbar = () => {
     return (
-        <nav className='flex justify-between p-6 bg-orange-500 text-white font-bold' style={{ position: 'sticky', top: 0, width: '100%'}}>
+        <nav className='flex justify-between p-6 bg-purple-900 text-white font-bold' style={{ position: 'sticky', top: 0, width: '100%'}}>
             <div className=''>Safe Space <sub>t.b</sub></div>
             <div className='flex gap-5 lg:gap-20 justify-end'>
                 <Link to='/'>
