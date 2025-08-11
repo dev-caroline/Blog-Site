@@ -10,7 +10,7 @@ const Blog = () => {
         <SideNav />
         <div className='ms-80'>
           <div className='w-190 mt-15 h-1000 shadow-xl mx-80'>
-            <p className='text-orange-500'>Blogs by SS...</p>
+            <p className='text-3xl text-center font-bold underline'>Blog Posts</p>
             <div className='p-10'>
 
               <div className=' border-2 p-3 bg-emerald-200 rounded-2xl'>

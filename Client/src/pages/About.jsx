@@ -15,8 +15,8 @@ const About = () => {
           <div className='my-10 px-30 text-xl'>
             <h1 className='mt-3 font-bold text-2xl'>Welcome to Safe Space</h1>
             <p>Hello Reader, </p>
-            <span>My Name is <span className='text-orange-500 underline'>Ajiboye Caroline Adetomiwa</span>. I'm the CEO of Tommie Closet, a Full Stack Web developer and also the creator of Safe Space . I love to write contents about: <br /> 💡<span className='text-blue-600'>Glow Up Tips . </span> <br /> 🕊️<span className='text-green-600'>Christianity Growth . </span> <br /> 💻<span className='text-yellow-500'>Tech Skills . </span> <br />
-              That was why i created my blogsite - Safe Space as a little corner of the internet where thoughts, stories, and ideas can live without judgment. </span>
+            <span>My Name is <span className='text-orange-500 underline'>Ajiboye Caroline Adetomiwa</span>. I'm a Full Stack Web developer, The creator of Safe Space (blogsite) and also the CEO of Tommie Closette . I love to write contents about: <br /> 💡<span className='text-blue-600'>Glow Up Tips . </span> <br /> 🕊️<span className='text-green-600'>Christianity Growth . </span> <br /> 💻<span className='text-yellow-500'>Tech Skills . </span> <br />
+              That was why i created my blogsite - Safe Space as a little corner of the internet where thoughts, stories, and ideas can live without judgment. It is a text-based blogsite and also an active project to learn more and build my web development skill.  </span>
 
             <h1 className='mt-5 font-bold'>Why I Started This Blog</h1>
             <span>Sometimes life moves too fast, and we don’t get the chance to slow down and reflect. This blog is my way of pressing pause — sharing lessons from my tech journey, personal growth moments, and the little things that inspire me.</span>
